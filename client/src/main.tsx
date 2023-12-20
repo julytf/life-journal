@@ -4,6 +4,8 @@ import './assets/scss/main.scss'
 import { RouterProvider } from 'react-router'
 import router from './routes'
 
+import './main.scss'
+
 function FallbackLoading() {
   return <p>Loading...</p>
 }

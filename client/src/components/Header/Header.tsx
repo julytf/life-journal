@@ -4,8 +4,7 @@ interface HeaderProps {}
 
 const Header: FunctionComponent<HeaderProps> = () => {
   return (
-    <header>
-      <h1>Header</h1>
+    <header >
     </header>
   )
 }
